@@ -1,0 +1,17 @@
+{
+    "Name": [
+        "Alice",
+        "Bob",
+        "Cathy"
+    ],
+    "Age": [
+        25,
+        18,
+        44
+    ],
+    "City": [
+        "Oldenburg",
+        "Nordenham",
+        "Bremen"
+    ]
+}
